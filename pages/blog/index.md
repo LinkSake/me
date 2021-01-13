@@ -1,7 +1,7 @@
 ---
-type: page
+type: posts
 title: "[ Blog ]"
-date: 2021-01-05
+date: 2021/01/05
 ---
 
 ## Blog
