@@ -14,3 +14,23 @@ a {
 * {
   box-sizing: border-box;
 }
+
+img.welcome {
+  max-width: 300px;
+  border-radius: 50%;
+  margin-right: 2em;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
