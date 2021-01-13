@@ -35,5 +35,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Todo
 
-- [ ] Hacer que funcionen las tags
-- [ ] Crear alguna página que muestre que aún no hay articulos
+- [ ] Hacer página de inicio responsiva
+- [ ] Versión personalizada del tema
+- [ ] Acabar /about
+- [ ] Ver posibilidad de diferentes temas
+- [ ] Ver posibilidad de unir /blog, /poems, /stories bajo un menu Escritos 
