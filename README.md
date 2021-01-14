@@ -33,10 +33,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# Todo
+## Todo
 
-- [ ] Hacer página de inicio responsiva
-- [ ] Versión personalizada del tema
-- [ ] Acabar /about
-- [ ] Ver posibilidad de diferentes temas
-- [ ] Ver posibilidad de unir /blog, /poems, /stories bajo un menu Escritos 
+- [ ] Make site mobile friendly
+- [ ] Add internalization
+- [ ] Add dark and sepia color themes
+- [ ] Unite /blog, /poems, /stories under a /writings "menu"
