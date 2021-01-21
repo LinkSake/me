@@ -19,10 +19,31 @@ summary {
   cursor: pointer;
 }
 
+@media (max-width: 780px) {
+  .container{
+    padding-left: 2em !important;
+    padding-right: 2em !important;
+  }
+
+  .welcome{
+    flex-direction: column !important;
+  }
+
+  .welcome-img-container{
+    align-self: baseline;
+  }
+}
+
 img.welcome {
   max-width: 300px;
   border-radius: 50%;
   margin-right: 2em;
+}
+
+.welcome{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .flex-row {
