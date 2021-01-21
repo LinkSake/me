@@ -26,3 +26,5 @@ Logo/icon by [Horse Wizard](http://instagram.com/horse.wizard) © 2021.
 - [ ] Unite /blog, /poems, /stories under a /writings "menu"
 - [ ] Make a RSS feed
 - [ ] Make /pages a [git submodule](https://www.taniarascia.com/git-submodules-private-content/)
+- [ ] Add meta tags
+- [ ] Add Wattpad link to /stories
