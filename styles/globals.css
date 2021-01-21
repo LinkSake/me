@@ -15,6 +15,10 @@ a {
   box-sizing: border-box;
 }
 
+summary {
+  cursor: pointer;
+}
+
 img.welcome {
   max-width: 300px;
   border-radius: 50%;
