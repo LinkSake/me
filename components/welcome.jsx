@@ -8,7 +8,7 @@ const Welcome = ( props ) => {
             </div>
             <div className='flex-column welcome-text '>
                 <h1 className='flex-row'>{props.title}</h1>
-                <span className='flex-row'>{props.children}</span>
+                <span className='flex-column'>{props.children}</span>
             </div>
         </div>
     )
