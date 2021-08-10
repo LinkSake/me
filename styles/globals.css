@@ -30,7 +30,13 @@ summary {
   }
 
   .welcome-img-container{
+    width: 100%;
     align-self: baseline;
+  }
+
+  .welcome-text{
+    align-items: center !important;
+    align-content: center !important;
   }
 }
 
