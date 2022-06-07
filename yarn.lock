@@ -2,7 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 4
+  version: 6
   cacheKey: 8
 
 "@babel/code-frame@npm:7.12.11":
@@ -1693,10 +1693,10 @@ __metadata:
 
 "fsevents@patch:fsevents@~2.3.1#~builtin<compat/fsevents>":
   version: 2.3.1
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.1#~builtin<compat/fsevents>::version=2.3.1&hash=1cc4b2"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.1#~builtin<compat/fsevents>::version=2.3.1&hash=18f3a7"
   dependencies:
     node-gyp: latest
-  checksum: 69e026dbd99b1e2fe52cbd80c7697f62a2f7f79c5175e99f21c26b7aecc47d979bdbb8af56c5e4eeeeaf66a0f84a0198c60008ed21998a57b147d0ca5dc0d496
+  conditions: os=darwin
   languageName: node
   linkType: hard
 
@@ -1706,6 +1706,7 @@ fsevents@~2.3.1:
   dependencies:
     node-gyp: latest
   checksum: 7992dac7961be985b3c3c64d79f4489278ab179da2cdc190a88085e3526ab6fa0fb1b78d94ab8669649208a0728fdd2dab1f4b522566ace132b687b5e6a341a1
+  conditions: os=darwin
   languageName: node
   linkType: hard
 
